@@ -15,8 +15,9 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Medicinal chemists involved in this CNP Project:
 
-Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)
-Professor Peter Brown, University of North Carolina Chapel Hill   Anwar Hossain, University of North Carolina Chapel Hill - [@ahsgc](https://github.com/ahsgc)
+Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)  
+Professor Peter Brown, University of North Carolina Chapel Hill  
+Anwar Hossain, University of North Carolina Chapel Hill - [@ahsgc](https://github.com/ahsgc)  
 
 You can see other contributors in the Issues (tab above).
 
